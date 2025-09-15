@@ -34,12 +34,12 @@ Configuration file: `~/.screenrc` 📝
 
   Feature            Description
   ------------------ -------------------------------
-  Window titles      Set default names for windows
-  Status line        Show host, time, window info
-  Key bindings       Change default shortcuts
-  Shell behavior     Choose default shell
-  Logging            Automatically log output
-  Environment vars   Use `setenv`
+  - Window titles      Set default names for windows
+  - Status line        Show host, time, window info
+  - Key bindings       Change default shortcuts
+  - Shell behavior     Choose default shell
+  - Logging            Automatically log output
+  - Environment vars   Use `setenv`
 
 ------------------------------------------------------------------------
 
@@ -77,11 +77,11 @@ hardstatus string "%{= kR}╭─ %{= kW}NETDEV %{= kR}─╮ %{= kG}%w %{= kR}�
 
   Code   Description
   ------ -------------------------------------
-  `kR`   Black text on **red** background
-  `kW`   Black text on **white** background
-  `kG`   Black text on **green** background
-  `kB`   Black text on **blue** background
-  `kY`   Black text on **yellow** background
-  `kC`   Black text on **cyan** background
+  - `kR`  | Black text on **red** background
+  - `kW`  | Black text on **white** background
+  - `kG`  | Black text on **green** background
+  - `kB`  | Black text on **blue** background
+  - `kY`  | Black text on **yellow** background
+  - `kC`  | Black text on **cyan** background
 
 ------------------------------------------------------------------------
